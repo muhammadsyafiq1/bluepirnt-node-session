@@ -1,0 +1,6 @@
+//get single user
+
+GET http://localhost:5000/user/a23812a2-e8d9-4181-ba87-6eb29266f129
+###
+
+GET http://localhost:5000/paginates?seacrh_query=john&page=8&limit=10
